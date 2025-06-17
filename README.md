@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/AbdulnabiKR/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbdulnabiKR/Leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/AbdulnabiKR/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
