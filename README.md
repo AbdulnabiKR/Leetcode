@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/AbdulnabiKR/Leetcode/tree/master/0012-integer-to-roman) |
 ## Linked List
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AbdulnabiKR/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AbdulnabiKR/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AbdulnabiKR/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/AbdulnabiKR/Leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/AbdulnabiKR/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbdulnabiKR/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/AbdulnabiKR/Leetcode/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
