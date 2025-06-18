@@ -1,32 +1,22 @@
 class Solution {
-
-    public List<String> wordBreak(String s, List<String> wordDict) {
-        List<String> result = new ArrayList<>();      // local to the “main” method
-        backTracking(s, 0, new HashSet<>(wordDict),   // fast look‑ups
-                     new StringBuilder(), result);
-        return result;
-    }
-
-    private void backTracking(String s, int start,
-                              HashSet<String> dict,
-                              StringBuilder path,
-                              List<String> result) {
-
-        if (start == s.length()) {                    // reached end → record sentence
+    public void backTrack(String s,HashSet<String> dict,List<String> result,StringBuilder path,int start){
+        if(start==s.length()){
             result.add(path.toString().trim());
             return;
         }
-
-        for (int end = start + 1; end <= s.length(); end++) {
-            String word = s.substring(start, end);
-            if (dict.contains(word)) {
-                int len = path.length();              // remember length to back‑track
-                path.append(word).append(' ');
-
-                backTracking(s, end, dict, path, result);
-
-                path.setLength(len);                  // undo append (classic back‑track)
+        for(int end=start+1;end<=s.length();end++){
+            String word=s.substring(start,end);
+            if(dict.contains(word)){
+                int len=path.length();
+                path.append(word).append(' ');  
+                backTrack(s,dict,result,path,end);
+                path.setLength(len);
             }
         }
+    }
+    public List<String> wordBreak(String s, List<String> wordDict) {
+       List<String> result=new ArrayList<>();
+       backTrack(s,new HashSet<>(wordDict),result,new StringBuilder(),0);
+       return result;
     }
 }
