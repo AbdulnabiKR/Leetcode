@@ -3,7 +3,7 @@ class Solution {
        int minspeed=1;
        int maxspeed=Arrays.stream(piles).max().getAsInt();//gives maximum value in an array
        while(minspeed<maxspeed){
-        int mid=minspeed+(maxspeed-minspeed)/2;
+        int mid=(minspeed+maxspeed)/2;
         if(canFixed(piles,h,mid))
          maxspeed=mid;
          else
