@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/AbdulnabiKR/Leetcode/tree/master/0066-plus-one) |
 | [0140-word-break-ii](https://github.com/AbdulnabiKR/Leetcode/tree/master/0140-word-break-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulnabiKR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0907-koko-eating-bananas](https://github.com/AbdulnabiKR/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -72,5 +73,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AbdulnabiKR/Leetcode/tree/master/0069-sqrtx) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulnabiKR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0907-koko-eating-bananas](https://github.com/AbdulnabiKR/Leetcode/tree/master/0907-koko-eating-bananas) |
+## Sorting
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulnabiKR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulnabiKR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulnabiKR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
