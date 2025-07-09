@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/AbdulnabiKR/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/AbdulnabiKR/Leetcode/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/AbdulnabiKR/Leetcode/tree/master/0140-word-break-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulnabiKR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0907-koko-eating-bananas](https://github.com/AbdulnabiKR/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulnabiKR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AbdulnabiKR/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
