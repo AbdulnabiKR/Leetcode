@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AbdulnabiKR/Leetcode/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/AbdulnabiKR/Leetcode/tree/master/0140-word-break-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulnabiKR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/AbdulnabiKR/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AbdulnabiKR/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbdulnabiKR/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0140-word-break-ii](https://github.com/AbdulnabiKR/Leetcode/tree/master/0140-word-break-ii) |
+| [0410-split-array-largest-sum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/AbdulnabiKR/Leetcode/tree/master/0069-sqrtx) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulnabiKR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/AbdulnabiKR/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AbdulnabiKR/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Sorting
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AbdulnabiKR/Leetcode/tree/master/0191-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
