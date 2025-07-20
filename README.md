@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AbdulnabiKR/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/AbdulnabiKR/Leetcode/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/AbdulnabiKR/Leetcode/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/AbdulnabiKR/Leetcode/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulnabiKR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/AbdulnabiKR/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AbdulnabiKR/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AbdulnabiKR/Leetcode/tree/master/0013-roman-to-integer) |
 | [0140-word-break-ii](https://github.com/AbdulnabiKR/Leetcode/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/AbdulnabiKR/Leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AbdulnabiKR/Leetcode/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulnabiKR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AbdulnabiKR/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Heap (Priority Queue)
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AbdulnabiKR/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AbdulnabiKR/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
@@ -130,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdulnabiKR/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AbdulnabiKR/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
