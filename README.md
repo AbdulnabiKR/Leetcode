@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AbdulnabiKR/Leetcode/tree/master/0013-roman-to-integer) |
 | [0140-word-break-ii](https://github.com/AbdulnabiKR/Leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/AbdulnabiKR/Leetcode/tree/master/0169-majority-element) |
+| [0460-lfu-cache](https://github.com/AbdulnabiKR/Leetcode/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbdulnabiKR/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AbdulnabiKR/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0460-lfu-cache](https://github.com/AbdulnabiKR/Leetcode/tree/master/0460-lfu-cache) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AbdulnabiKR/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbdulnabiKR/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/AbdulnabiKR/Leetcode/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
 | ------- |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbdulnabiKR/Leetcode/tree/master/0169-majority-element) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/AbdulnabiKR/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
