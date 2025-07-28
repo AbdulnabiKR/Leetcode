@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AbdulnabiKR/Leetcode/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/AbdulnabiKR/Leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/AbdulnabiKR/Leetcode/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulnabiKR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/AbdulnabiKR/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulnabiKR/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AbdulnabiKR/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbdulnabiKR/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/AbdulnabiKR/Leetcode/tree/master/0460-lfu-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
