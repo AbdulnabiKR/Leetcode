@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/AbdulnabiKR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AbdulnabiKR/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/AbdulnabiKR/Leetcode/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/AbdulnabiKR/Leetcode/tree/master/0140-word-break-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbdulnabiKR/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/AbdulnabiKR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0140-word-break-ii](https://github.com/AbdulnabiKR/Leetcode/tree/master/0140-word-break-ii) |
 | [0410-split-array-largest-sum](https://github.com/AbdulnabiKR/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdulnabiKR/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AbdulnabiKR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AbdulnabiKR/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AbdulnabiKR/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Greedy
